@@ -9,7 +9,7 @@ It demonstrates how to design and code the core components of a trading platform
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Language**: C++  
 
 ---
@@ -23,5 +23,3 @@ It demonstrates how to design and code the core components of a trading platform
 ## License
 
 This project is for **educational purposes only**.
-
-```
